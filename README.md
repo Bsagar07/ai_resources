@@ -30,8 +30,15 @@ This repository contains all the curated materials, blog links, books and tutori
 - <DT><A HREF="https://intellica-ai.medium.com/comparison-of-different-word-embeddings-on-text-similarity-a-use-case-in-nlp-e83e08469c1c"> Comparison of different Word Embeddings on Text Similarity — A use case in NLP </A>
 - <DT><A HREF="https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa"> Introduction to Word Embedding and Word2Vec </A>
 
+## LLM Explainedhttps://medium.com/@yash9439/introduction-to-llms-and-the-generative-ai-part-1-a946350936fd
+- <DT><A HREF="https://medium.com/data-science-community-srm/demystifying-language-models-an-overview-of-llms-5cbc7600c3f8#:~:text=In%20transformers%2C%20decoding%20is%20the,encoded%20input%20and%20previous%20predictions."> Demystifying Language Models: An Overview of LLMs </A> 
+- <DT><A HREF="https://medium.com/@yash9439/introduction-to-llms-and-the-generative-ai-part-1-a946350936fd"> Introduction to LLMs and the generative AI : Part 1 — LLM Architecture, Prompt Engineering and LLM Configuration </A> 
 
-
+## Sentence Transformers
+- <DT><A HREF="https://medium.com/@mroko001/transformers-in-nlp-bert-and-sentence-transformers-3faab61918ea"> Transformers in NLP: BERT and Sentence Transformers </A> 
+- <DT><A HREF="https://medium.com/swlh/transformer-based-sentence-embeddings-cd0935b3b1e0"> Transformer-based Sentence Embeddings </A> 
+- <DT><A HREF="https://medium.com/nlplanet/two-minutes-nlp-sentence-transformers-cheat-sheet-2e9865083e7a"> Two minutes NLP — Sentence Transformers cheat sheet
+ </A> 
 
 
 

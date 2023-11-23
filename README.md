@@ -40,6 +40,24 @@ This repository contains all the curated materials, blog links, books and tutori
 - <DT><A HREF="https://medium.com/nlplanet/two-minutes-nlp-sentence-transformers-cheat-sheet-2e9865083e7a"> Two minutes NLP — Sentence Transformers cheat sheet
  </A> 
 
+## Langchain
+- <DT><A HREF="https://medium.com/data-science-in-your-pocket/understanding-the-langchain-framework-2bd57d177dbe"> Understanding the Langchain Framework </A> 
+- <DT><A HREF="https://datastax.medium.com/what-is-langchain-b5583de2989a"> What Is LangChain? </A> 
+- <DT><A HREF="https://medium.com/@bijit211987/llm-driven-applications-with-langchain-abstraction-4907a32bdfb0#:~:text=LangChain%20is%20an%20open%20source,and%20more%20using%20just%20Python."> LLM Driven Applications with LangChain Abstraction </A> 
 
+## Retrieval Augmented Generation
+- <DT><A HREF="https://medium.com/international-school-of-ai-data-science/efficient-information-retrieval-with-rag-workflow-afdfc2619171"> Efficient Information Retrieval with RAG Workflow </A> 
+- <DT><A HREF="https://medium.com/@Nirodya_Pussadeniya/retrieval-augmented-generation-rag-a594873b9a96"> Retrieval Augmented Generation (RAG) </A> 
+- <DT><A HREF="https://towardsdatascience.com/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2"> Retrieval-Augmented Generation (RAG): From Theory to LangChain Implementation </A> 
 
+## ROUGE and BLEU Evaluation
+- <DT><A HREF="https://medium.com/free-code-camp/what-is-rouge-and-how-it-works-for-evaluation-of-summaries-e059fb8ac840"> An intro to ROUGE, and how to use it to evaluate summaries </A>
+- <DT><A HREF="https://medium.com/@eren9677/text-summarization-387836c9e178"> Text Summarization: How To Calculate Rouge Score </A> 
+- <DT><A HREF="https://medium.com/@oscararmas_81971/bleu-a-method-for-automatic-evaluation-of-machine-translation-3339e2efb2ff"> BLEU, a method for Automatic Evaluation of Machine Translation </A> 
+- <DT><A HREF="https://towardsdatascience.com/foundations-of-nlp-explained-bleu-score-and-wer-metrics-1a5ba06d812b"> Foundations of NLP Explained — Bleu Score and WER Metrics </A>
+- <DT><A HREF="https://medium.com/nlplanet/two-minutes-nlp-learn-the-bleu-metric-by-examples-df015ca73a86"> Two minutes NLP — Learn the BLEU metric by examples </A> 
 
+## 
+- <DT><A HREF="">  </A>
+- <DT><A HREF="">  </A> 
+- <DT><A HREF="">  </A> 
